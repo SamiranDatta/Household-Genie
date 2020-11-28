@@ -1,0 +1,67 @@
+.section-light {
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.index-jumbotron {
+    background-image: url(assets/magic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.section-content {
+    background-color: #e3f2fd;
+    padding: 2rem;
+}
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 82%;
+}
+
+.rowMain {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.footer {
+    margin-top: 2rem;
+    padding: 1rem;
+}
+
+.contact {
+    padding: 1rem;
+    padding-top: 2rem;
+    text-align: center;
+    color: white;;
+}
+
+.fa {
+    margin: 1rem;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: white;
+}
+
+.section-story {
+    margin: 1rem;
+    text-align: center;
+}
